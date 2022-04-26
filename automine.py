@@ -3,6 +3,7 @@ import time
 
 def main():
     time.sleep(10)
+    pyautogui.FAILSAFE = True
     a = 0 
     e = True
     Shift(True)
