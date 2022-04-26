@@ -1,0 +1,2 @@
+# Mcminer
+auto minecraft miner
